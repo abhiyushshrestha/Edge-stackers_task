@@ -18,5 +18,5 @@ File Structure:
 	- main.py runs the entire code 
 
 
-Python command to execute the code:
+Python command to execute the code:  
 		python main.py
